@@ -5,8 +5,8 @@
   "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/n7TXDM-yzn0aaUD38UxmN/_buildManifest.js",
-    "static/n7TXDM-yzn0aaUD38UxmN/_ssgManifest.js"
+    "static/eKyEgx7XvYzaIbn4Ty9Iz/_buildManifest.js",
+    "static/eKyEgx7XvYzaIbn4Ty9Iz/_ssgManifest.js"
   ],
   "rootMainFiles": [],
   "pages": {
@@ -78,7 +78,7 @@
       "static/chunks/1966-74e4f6bf30dabcb0.js",
       "static/chunks/5675-5d77f6dc9bf62043.js",
       "static/chunks/5128-862265bae49d43e8.js",
-      "static/chunks/pages/quiz-result-63a0fbe16bc470ab.js"
+      "static/chunks/pages/quiz-result-ad847d37e14a044c.js"
     ],
     "/quizzes": [
       "static/chunks/webpack-9d2c102ffda04cf3.js",
@@ -86,7 +86,213 @@
       "static/chunks/main-2c74493fd895c0b6.js",
       "static/chunks/1966-74e4f6bf30dabcb0.js",
       "static/css/38428634c1f84937.css",
-      "static/chunks/pages/quizzes-2bb8a7b1483c274b.js"
+      "static/chunks/pages/quizzes-883f34a774a28dd8.js"
+    ],
+    "/quizzes/dom-and-events": [
+      "static/chunks/webpack-9d2c102ffda04cf3.js",
+      "static/chunks/framework-56eb74ff06128874.js",
+      "static/chunks/main-2c74493fd895c0b6.js",
+      "static/chunks/1966-74e4f6bf30dabcb0.js",
+      "static/css/38428634c1f84937.css",
+      "static/chunks/pages/quizzes/dom-and-events-2bfd298564394bae.js"
+    ],
+    "/quizzes/dom-and-events/dom-selection-methods/how-do-you-find-the-closest-ancestor-element-that-matches-a-specific-selector": [
+      "static/chunks/webpack-9d2c102ffda04cf3.js",
+      "static/chunks/framework-56eb74ff06128874.js",
+      "static/chunks/main-2c74493fd895c0b6.js",
+      "static/chunks/1966-74e4f6bf30dabcb0.js",
+      "static/chunks/5675-5d77f6dc9bf62043.js",
+      "static/chunks/5128-862265bae49d43e8.js",
+      "static/chunks/pages/quizzes/dom-and-events/dom-selection-methods/how-do-you-find-the-closest-ancestor-element-that-matches-a-specific-selector-469f16cceff0623d.js"
+    ],
+    "/quizzes/dom-and-events/dom-selection-methods/how-do-you-select-all-direct-children-of-a-div-with-the-class-container": [
+      "static/chunks/webpack-9d2c102ffda04cf3.js",
+      "static/chunks/framework-56eb74ff06128874.js",
+      "static/chunks/main-2c74493fd895c0b6.js",
+      "static/chunks/1966-74e4f6bf30dabcb0.js",
+      "static/chunks/5675-5d77f6dc9bf62043.js",
+      "static/chunks/5128-862265bae49d43e8.js",
+      "static/chunks/pages/quizzes/dom-and-events/dom-selection-methods/how-do-you-select-all-direct-children-of-a-div-with-the-class-container-642411e0230887a8.js"
+    ],
+    "/quizzes/dom-and-events/dom-selection-methods/how-do-you-select-all-elements-with-a-class-name-that-starts-with-nav": [
+      "static/chunks/webpack-9d2c102ffda04cf3.js",
+      "static/chunks/framework-56eb74ff06128874.js",
+      "static/chunks/main-2c74493fd895c0b6.js",
+      "static/chunks/1966-74e4f6bf30dabcb0.js",
+      "static/chunks/5675-5d77f6dc9bf62043.js",
+      "static/chunks/5128-862265bae49d43e8.js",
+      "static/chunks/pages/quizzes/dom-and-events/dom-selection-methods/how-do-you-select-all-elements-with-a-class-name-that-starts-with-nav-f787d41570577328.js"
+    ],
+    "/quizzes/dom-and-events/dom-selection-methods/how-do-you-select-all-paragraph-elements-with-a-specific-class-using-queryselectorall": [
+      "static/chunks/webpack-9d2c102ffda04cf3.js",
+      "static/chunks/framework-56eb74ff06128874.js",
+      "static/chunks/main-2c74493fd895c0b6.js",
+      "static/chunks/1966-74e4f6bf30dabcb0.js",
+      "static/chunks/5675-5d77f6dc9bf62043.js",
+      "static/chunks/5128-862265bae49d43e8.js",
+      "static/chunks/pages/quizzes/dom-and-events/dom-selection-methods/how-do-you-select-all-paragraph-elements-with-a-specific-class-using-queryselectorall-a9886dc5bda8f4d3.js"
+    ],
+    "/quizzes/dom-and-events/dom-selection-methods/how-do-you-select-the-parent-element-of-a-known-dom-element": [
+      "static/chunks/webpack-9d2c102ffda04cf3.js",
+      "static/chunks/framework-56eb74ff06128874.js",
+      "static/chunks/main-2c74493fd895c0b6.js",
+      "static/chunks/1966-74e4f6bf30dabcb0.js",
+      "static/chunks/5675-5d77f6dc9bf62043.js",
+      "static/chunks/5128-862265bae49d43e8.js",
+      "static/chunks/pages/quizzes/dom-and-events/dom-selection-methods/how-do-you-select-the-parent-element-of-a-known-dom-element-149b2901782f3119.js"
+    ],
+    "/quizzes/dom-and-events/dom-selection-methods/how-would-you-select-all-elements-between-the-3rd-and-5th-positions-within-their-parent": [
+      "static/chunks/webpack-9d2c102ffda04cf3.js",
+      "static/chunks/framework-56eb74ff06128874.js",
+      "static/chunks/main-2c74493fd895c0b6.js",
+      "static/chunks/1966-74e4f6bf30dabcb0.js",
+      "static/chunks/5675-5d77f6dc9bf62043.js",
+      "static/chunks/5128-862265bae49d43e8.js",
+      "static/chunks/pages/quizzes/dom-and-events/dom-selection-methods/how-would-you-select-all-elements-between-the-3rd-and-5th-positions-within-their-parent-c183608096d600b3.js"
+    ],
+    "/quizzes/dom-and-events/dom-selection-methods/what-does-document-getelementbyid-return-if-no-element-with-the-specified-id-exists": [
+      "static/chunks/webpack-9d2c102ffda04cf3.js",
+      "static/chunks/framework-56eb74ff06128874.js",
+      "static/chunks/main-2c74493fd895c0b6.js",
+      "static/chunks/1966-74e4f6bf30dabcb0.js",
+      "static/chunks/5675-5d77f6dc9bf62043.js",
+      "static/chunks/5128-862265bae49d43e8.js",
+      "static/chunks/pages/quizzes/dom-and-events/dom-selection-methods/what-does-document-getelementbyid-return-if-no-element-with-the-specified-id-exists-101cfe2c88e73f6e.js"
+    ],
+    "/quizzes/dom-and-events/dom-selection-methods/what-does-getelementsbytagname-return": [
+      "static/chunks/webpack-9d2c102ffda04cf3.js",
+      "static/chunks/framework-56eb74ff06128874.js",
+      "static/chunks/main-2c74493fd895c0b6.js",
+      "static/chunks/1966-74e4f6bf30dabcb0.js",
+      "static/chunks/5675-5d77f6dc9bf62043.js",
+      "static/chunks/5128-862265bae49d43e8.js",
+      "static/chunks/pages/quizzes/dom-and-events/dom-selection-methods/what-does-getelementsbytagname-return-f37720f086be98ea.js"
+    ],
+    "/quizzes/dom-and-events/dom-selection-methods/what-is-the-difference-between-queryselector-and-queryselectorall": [
+      "static/chunks/webpack-9d2c102ffda04cf3.js",
+      "static/chunks/framework-56eb74ff06128874.js",
+      "static/chunks/main-2c74493fd895c0b6.js",
+      "static/chunks/1966-74e4f6bf30dabcb0.js",
+      "static/chunks/5675-5d77f6dc9bf62043.js",
+      "static/chunks/5128-862265bae49d43e8.js",
+      "static/chunks/pages/quizzes/dom-and-events/dom-selection-methods/what-is-the-difference-between-queryselector-and-queryselectorall-d7b016d729c525b0.js"
+    ],
+    "/quizzes/dom-and-events/dom-selection-methods/what-is-the-most-efficient-way-to-select-a-single-element-with-a-specific-id": [
+      "static/chunks/webpack-9d2c102ffda04cf3.js",
+      "static/chunks/framework-56eb74ff06128874.js",
+      "static/chunks/main-2c74493fd895c0b6.js",
+      "static/chunks/1966-74e4f6bf30dabcb0.js",
+      "static/chunks/5675-5d77f6dc9bf62043.js",
+      "static/chunks/5128-862265bae49d43e8.js",
+      "static/chunks/pages/quizzes/dom-and-events/dom-selection-methods/what-is-the-most-efficient-way-to-select-a-single-element-with-a-specific-id-727c6e87cb431bde.js"
+    ],
+    "/quizzes/dom-and-events/dom-selection-methods/what-s-the-difference-between-childnodes-and-children-properties": [
+      "static/chunks/webpack-9d2c102ffda04cf3.js",
+      "static/chunks/framework-56eb74ff06128874.js",
+      "static/chunks/main-2c74493fd895c0b6.js",
+      "static/chunks/1966-74e4f6bf30dabcb0.js",
+      "static/chunks/5675-5d77f6dc9bf62043.js",
+      "static/chunks/5128-862265bae49d43e8.js",
+      "static/chunks/pages/quizzes/dom-and-events/dom-selection-methods/what-s-the-difference-between-childnodes-and-children-properties-53b51d7ec5d97a60.js"
+    ],
+    "/quizzes/dom-and-events/dom-selection-methods/what-s-the-key-difference-between-htmlcollection-and-nodelist": [
+      "static/chunks/webpack-9d2c102ffda04cf3.js",
+      "static/chunks/framework-56eb74ff06128874.js",
+      "static/chunks/main-2c74493fd895c0b6.js",
+      "static/chunks/1966-74e4f6bf30dabcb0.js",
+      "static/chunks/5675-5d77f6dc9bf62043.js",
+      "static/chunks/5128-862265bae49d43e8.js",
+      "static/chunks/pages/quizzes/dom-and-events/dom-selection-methods/what-s-the-key-difference-between-htmlcollection-and-nodelist-4456cdc26bda9978.js"
+    ],
+    "/quizzes/dom-and-events/dom-selection-methods/which-dom-method-returns-the-first-element-that-matches-a-specified-css-selector": [
+      "static/chunks/webpack-9d2c102ffda04cf3.js",
+      "static/chunks/framework-56eb74ff06128874.js",
+      "static/chunks/main-2c74493fd895c0b6.js",
+      "static/chunks/1966-74e4f6bf30dabcb0.js",
+      "static/chunks/5675-5d77f6dc9bf62043.js",
+      "static/chunks/5128-862265bae49d43e8.js",
+      "static/chunks/pages/quizzes/dom-and-events/dom-selection-methods/which-dom-method-returns-the-first-element-that-matches-a-specified-css-selector-34c1977057976331.js"
+    ],
+    "/quizzes/dom-and-events/dom-selection-methods/which-dom-selection-method-returns-a-live-htmlcollection": [
+      "static/chunks/webpack-9d2c102ffda04cf3.js",
+      "static/chunks/framework-56eb74ff06128874.js",
+      "static/chunks/main-2c74493fd895c0b6.js",
+      "static/chunks/1966-74e4f6bf30dabcb0.js",
+      "static/chunks/5675-5d77f6dc9bf62043.js",
+      "static/chunks/5128-862265bae49d43e8.js",
+      "static/chunks/pages/quizzes/dom-and-events/dom-selection-methods/which-dom-selection-method-returns-a-live-htmlcollection-957a826f64baed5c.js"
+    ],
+    "/quizzes/dom-and-events/dom-selection-methods/which-dom-selection-method-would-you-use-to-find-all-elements-with-a-data-attribute": [
+      "static/chunks/webpack-9d2c102ffda04cf3.js",
+      "static/chunks/framework-56eb74ff06128874.js",
+      "static/chunks/main-2c74493fd895c0b6.js",
+      "static/chunks/1966-74e4f6bf30dabcb0.js",
+      "static/chunks/5675-5d77f6dc9bf62043.js",
+      "static/chunks/5128-862265bae49d43e8.js",
+      "static/chunks/pages/quizzes/dom-and-events/dom-selection-methods/which-dom-selection-method-would-you-use-to-find-all-elements-with-a-data-attribute-9ad9102c3318ee6c.js"
+    ],
+    "/quizzes/dom-and-events/dom-selection-methods/which-method-correctly-tests-if-an-element-has-a-specific-class": [
+      "static/chunks/webpack-9d2c102ffda04cf3.js",
+      "static/chunks/framework-56eb74ff06128874.js",
+      "static/chunks/main-2c74493fd895c0b6.js",
+      "static/chunks/1966-74e4f6bf30dabcb0.js",
+      "static/chunks/5675-5d77f6dc9bf62043.js",
+      "static/chunks/5128-862265bae49d43e8.js",
+      "static/chunks/pages/quizzes/dom-and-events/dom-selection-methods/which-method-correctly-tests-if-an-element-has-a-specific-class-b060059f333f72b0.js"
+    ],
+    "/quizzes/dom-and-events/dom-selection-methods/which-method-returns-a-static-collection-rather-than-a-live-one": [
+      "static/chunks/webpack-9d2c102ffda04cf3.js",
+      "static/chunks/framework-56eb74ff06128874.js",
+      "static/chunks/main-2c74493fd895c0b6.js",
+      "static/chunks/1966-74e4f6bf30dabcb0.js",
+      "static/chunks/5675-5d77f6dc9bf62043.js",
+      "static/chunks/5128-862265bae49d43e8.js",
+      "static/chunks/pages/quizzes/dom-and-events/dom-selection-methods/which-method-returns-a-static-collection-rather-than-a-live-one-17191448f2b52eec.js"
+    ],
+    "/quizzes/dom-and-events/dom-selection-methods/which-method-would-you-use-to-find-the-next-sibling-element-of-a-node": [
+      "static/chunks/webpack-9d2c102ffda04cf3.js",
+      "static/chunks/framework-56eb74ff06128874.js",
+      "static/chunks/main-2c74493fd895c0b6.js",
+      "static/chunks/1966-74e4f6bf30dabcb0.js",
+      "static/chunks/5675-5d77f6dc9bf62043.js",
+      "static/chunks/5128-862265bae49d43e8.js",
+      "static/chunks/pages/quizzes/dom-and-events/dom-selection-methods/which-method-would-you-use-to-find-the-next-sibling-element-of-a-node-1652b7050e400a07.js"
+    ],
+    "/quizzes/dom-and-events/dom-selection-methods/which-method-would-you-use-to-select-all-elements-with-specific-data-attributes-and-values": [
+      "static/chunks/webpack-9d2c102ffda04cf3.js",
+      "static/chunks/framework-56eb74ff06128874.js",
+      "static/chunks/main-2c74493fd895c0b6.js",
+      "static/chunks/1966-74e4f6bf30dabcb0.js",
+      "static/chunks/5675-5d77f6dc9bf62043.js",
+      "static/chunks/5128-862265bae49d43e8.js",
+      "static/chunks/pages/quizzes/dom-and-events/dom-selection-methods/which-method-would-you-use-to-select-all-elements-with-specific-data-attributes-and-values-8d4e9434fb8a78ae.js"
+    ],
+    "/quizzes/dom-and-events/dom-selection-methods/which-of-the-following-returns-a-nodelist": [
+      "static/chunks/webpack-9d2c102ffda04cf3.js",
+      "static/chunks/framework-56eb74ff06128874.js",
+      "static/chunks/main-2c74493fd895c0b6.js",
+      "static/chunks/1966-74e4f6bf30dabcb0.js",
+      "static/chunks/5675-5d77f6dc9bf62043.js",
+      "static/chunks/5128-862265bae49d43e8.js",
+      "static/chunks/pages/quizzes/dom-and-events/dom-selection-methods/which-of-the-following-returns-a-nodelist-ec768efd6192058e.js"
+    ],
+    "/quizzes/dom-and-events/dom-selection-methods/which-property-can-be-used-to-access-custom-data-attributes": [
+      "static/chunks/webpack-9d2c102ffda04cf3.js",
+      "static/chunks/framework-56eb74ff06128874.js",
+      "static/chunks/main-2c74493fd895c0b6.js",
+      "static/chunks/1966-74e4f6bf30dabcb0.js",
+      "static/chunks/5675-5d77f6dc9bf62043.js",
+      "static/chunks/5128-862265bae49d43e8.js",
+      "static/chunks/pages/quizzes/dom-and-events/dom-selection-methods/which-property-can-be-used-to-access-custom-data-attributes-af83a74b6872c69f.js"
+    ],
+    "/quizzes/dom-and-events/dom-selection-methods/which-selector-matches-all-elements-that-are-the-first-child-of-their-parent": [
+      "static/chunks/webpack-9d2c102ffda04cf3.js",
+      "static/chunks/framework-56eb74ff06128874.js",
+      "static/chunks/main-2c74493fd895c0b6.js",
+      "static/chunks/1966-74e4f6bf30dabcb0.js",
+      "static/chunks/5675-5d77f6dc9bf62043.js",
+      "static/chunks/5128-862265bae49d43e8.js",
+      "static/chunks/pages/quizzes/dom-and-events/dom-selection-methods/which-selector-matches-all-elements-that-are-the-first-child-of-their-parent-dd44397d17e24633.js"
     ],
     "/quizzes/functions-and-scope": [
       "static/chunks/webpack-9d2c102ffda04cf3.js",
@@ -841,7 +1047,7 @@
       "static/chunks/1966-74e4f6bf30dabcb0.js",
       "static/chunks/5675-5d77f6dc9bf62043.js",
       "static/chunks/5128-862265bae49d43e8.js",
-      "static/chunks/pages/quizzes/functions-and-scope/function-declarations-vs-expressions/what-is-the-output-of-this-code-023c5f2e2d0773fc.js"
+      "static/chunks/pages/quizzes/functions-and-scope/function-declarations-vs-expressions/what-is-the-output-of-this-code-2830a3df46beb619.js"
     ],
     "/quizzes/functions-and-scope/function-declarations-vs-expressions/what-is-the-primary-advantage-of-using-a-function-expression-over-a-function-declaration": [
       "static/chunks/webpack-9d2c102ffda04cf3.js",
