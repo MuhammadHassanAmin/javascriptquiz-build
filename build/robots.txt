@@ -1,9 +1,0 @@
-# *
-User-agent: *
-Allow: /
-
-# Host
-Host: https://javascriptquiz.app
-
-# Sitemaps
-Sitemap: https://javascriptquiz.app/sitemap.xml
